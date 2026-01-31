@@ -76,8 +76,8 @@ importers:
         specifier: 0.0.44
         version: 0.0.44
       billboard.js:
-        specifier: 3.17.2
-        version: 3.17.2
+        specifier: 3.18.0
+        version: 3.18.0
       diff2html:
         specifier: 3.4.55
         version: 3.4.55
@@ -2552,8 +2552,8 @@ packages:
   big.js@5.2.2:
     resolution: {integrity: sha512-vyL2OymJxmarO8gxMr0mhChsO9QGwhynfuu4+MHTAW6czfq9humCB7rKpUjDd9YUiDPU4mzpyupFSvOClAwbmQ==}
 
-  billboard.js@3.17.2:
-    resolution: {integrity: sha512-wJgSaydYAvuq9LrHQgmuC4pFC5YFP/B2U0e0VGgNqV73cBIPGfVkthj9vUOy7liwwqt/Goa4aOEISNwAl8v9mw==}
+  billboard.js@3.18.0:
+    resolution: {integrity: sha512-aci69MLwOX0HfdmQHk+v/iA7L4R+wG53hW9VwhkYzMOyqemWLjscf229XsQRrTau9EJSVyOHnr/rpVukoqppXw==}
 
   binary-extensions@2.3.0:
     resolution: {integrity: sha512-Ceh+7ox5qe7LJuLHoY0feh3pHuUDHAcRUeyL2VYghZwfpkNIy/+8Ocg0a3UuSoYzavmylwuLWQOf3hl0jjMMIw==}
@@ -8744,7 +8744,7 @@ snapshots:
 
   big.js@5.2.2: {}
 
-  billboard.js@3.17.2:
+  billboard.js@3.18.0:
     dependencies:
       '@types/d3-selection': 3.0.11
       '@types/d3-transition': 3.0.9
